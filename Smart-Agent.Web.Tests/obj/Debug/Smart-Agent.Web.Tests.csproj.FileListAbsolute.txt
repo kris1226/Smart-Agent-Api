@@ -1,0 +1,15 @@
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\Smart-Agent.Web.Tests.dll
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\Smart-Agent.Web.Tests.pdb
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\Smart-Agent.Web.dll
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\System.Web.Http.dll
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\Smart-Agent.Web.pdb
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\System.Web.Http.xml
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\obj\Debug\Smart-Agent.Web.Tests.csprojResolveAssemblyReference.cache
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\obj\Debug\Smart-Agent.Web.Tests.dll
+D:\Code\Apis\Smart-Agent.Web\Smart-Agent.Web.Tests\obj\Debug\Smart-Agent.Web.Tests.pdb
